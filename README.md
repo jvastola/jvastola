@@ -10,7 +10,7 @@ I'm a Full-stack Developer studying at <strong>University of California, Merced<
 ♟ Chess <br/>
 ✏️ Writing  <br/>
 ## Connect with Me 🌱
-- [Portfolio](www.jvastola.github.io/) <br/>
+- [Portfolio](jvastola.github.io/) <br/>
 - [Instagram](https://www.instagram.com/johnathanvastola) <br/>
 - [Linkedin](https://www.linkedin.com/in/jvastola/) <br/>
 - [Twitter](https://twitter.com/johnvastola) <br/>

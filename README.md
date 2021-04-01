@@ -5,6 +5,10 @@ I'm a Full-stack Developer studying at <strong>University of California, Merced<
 ## Current Projects <br/>
 ⭐️ [WeatherApp](https://github.com/jvastola/WeatherApp)
 
+## Hobbies <br/>
+💪 Fitness <br/>
+♟ Chess <br/>
+✏️ Writing  <br/>
 ## Connect with Me 🌱
 - [Portfolio](https://www.jvastola.github.com/) <br/>
 - [Instagram](https://www.instagram.com/johnathanvastola) <br/>

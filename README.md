@@ -1,6 +1,14 @@
 ## Hey :wave:,
 
-I am a freelance developer and current 4th year student at University of California, Merced, pursuing Computer Science and Applied Mathematics
+I'm a Full-stack Developer studying at <strong>University of California, Merced</strong> as a Senior pursuing Computer Science and Applied Mathematics.
 
-## 🌱 Featured
-Medium [@johnvastola](https://medium.com/@johnvastola)
+## Current Projects <br/>
+⭐️ [WeatherApp](https://github.com/jvastola/WeatherApp)
+
+## Connect with Me 🌱
+- [Portfolio](https://www.jvastola.github.com/) <br/>
+- [Instagram](https://www.instagram.com/johnathanvastola) <br/>
+- [Linkedin](https://www.linkedin.com/in/jvastola/) <br/>
+- [Twitter](https://twitter.com/johnvastola) <br/>
+- [Medium] (https://medium.com/@johnvastola) <br/>
+

@@ -9,7 +9,7 @@ I'm a Full-stack Developer who studyied at Computer Science and Applied Mathemat
 ♟ Chess <br/>
 ✏️ Writing  <br/>
 ## Connect with Me 🌱
-- [Instagram](https://www.instagram.com/johnathanvastola) <br/>
+- [Instagram](https://www.instagram.com/johnathan.vastola) <br/>
 - [Linkedin](https://www.linkedin.com/in/jvastola/) <br/>
 - [Twitter](https://twitter.com/johnvastola) <br/>
 - [Medium](https://medium.com/@johnvastola) <br/>

@@ -1,6 +1,6 @@
 ## Hey :wave:,
 
-I'm a Full-stack Developer who studyied at Computer Science and Applied Mathematics at <strong>University of California, Merced</strong>.
+I'm a Full-stack Developer who studied at Computer Science and Applied Mathematics at <strong>University of California, Merced</strong>.
 ## Current Projects <br/>
 ⭐️ [WeatherApp](https://github.com/jvastola/WeatherApp)
 

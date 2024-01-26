@@ -2,7 +2,7 @@
 
 I'm a Full-stack Developer who studied Computer Science and Applied Mathematics at <strong>University of California, Merced</strong>.
 ## Current Projects <br/>
-⭐️ [WeatherApp](https://github.com/jvastola/WeatherApp)
+⭐️ [Diagram Creator](https://chat.openai.com/g/g-wsrno4sx6-diagram-creator-updated)
 
 ## Hobbies <br/>
 💪 Fitness <br/>
